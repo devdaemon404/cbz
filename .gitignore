@@ -1,0 +1,10 @@
+/node_modules
+/.idea
+/.next
+/build
+/dist
+/logs
+*.env
+*.log
+*.pem
+.viminspector.json
